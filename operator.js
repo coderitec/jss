@@ -45,4 +45,4 @@ answer = firstVal >= secondVal - 15; //true
 answer = firstVal === secondVal - 15; //true
 answer = firstVal !== secondVal - 15; //false
 
-console.log(`First value is now ${firstVal}, and second value is now ${secondVal} then answer is ${answer}`);
+console.log(`First value is now ${firstVal}, and second value is now ${secondVal} then answer is ${answer} a boolean operator`);
